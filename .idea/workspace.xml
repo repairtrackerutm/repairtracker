@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< Updated upstream
     <list default="true" id="e563f504-808d-4362-83fd-7a9206e23f46" name="Default" comment="zsjurg">
+=======
+    <list default="true" id="e563f504-808d-4362-83fd-7a9206e23f46" name="Default" comment="">
+>>>>>>> Stashed changes
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" afterPath="$PROJECT_DIR$/resources/views/welcome.blade.php" />
     </list>
@@ -29,7 +33,11 @@
         <entry file="file://$PROJECT_DIR$/te.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="17">
+<<<<<<< Updated upstream
               <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
+=======
+              <caret line="1" column="3" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
+>>>>>>> Stashed changes
               <folding />
             </state>
           </provider>
@@ -81,7 +89,11 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
+<<<<<<< Updated upstream
         <entry key="$PROJECT_DIR$" value="master" />
+=======
+        <entry key="$PROJECT_DIR$" value="dylan" />
+>>>>>>> Stashed changes
       </map>
     </option>
   </component>
@@ -283,7 +295,11 @@
       <updated>1462125036048</updated>
       <workItem from="1462125040540" duration="551000" />
       <workItem from="1462130314857" duration="1313000" />
+<<<<<<< Updated upstream
       <workItem from="1462131823240" duration="498000" />
+=======
+      <workItem from="1462131823240" duration="779000" />
+>>>>>>> Stashed changes
     </task>
     <task id="LOCAL-00001" summary="zs">
       <created>1462130395640</created>
@@ -291,6 +307,7 @@
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
       <updated>1462130395640</updated>
+<<<<<<< Updated upstream
     </task>
     <task id="LOCAL-00002" summary="zsju">
       <created>1462130453536</created>
@@ -299,6 +316,16 @@
       <option name="project" value="LOCAL" />
       <updated>1462130453536</updated>
     </task>
+=======
+    </task>
+    <task id="LOCAL-00002" summary="zsju">
+      <created>1462130453536</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1462130453536</updated>
+    </task>
+>>>>>>> Stashed changes
     <task id="LOCAL-00003" summary="zsjurg">
       <created>1462130478933</created>
       <option name="number" value="00003" />
@@ -306,11 +333,26 @@
       <option name="project" value="LOCAL" />
       <updated>1462130478933</updated>
     </task>
+<<<<<<< Updated upstream
     <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
     <option name="totallyTimeSpent" value="2362000" />
+=======
+    <task id="LOCAL-00004" summary="zsjurg">
+      <created>1462132325885</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1462132325885</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2643000" />
+>>>>>>> Stashed changes
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1932" height="1056" extended-state="0" />
@@ -321,7 +363,11 @@
       <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+<<<<<<< Updated upstream
       <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32980973" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+=======
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.03805497" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+>>>>>>> Stashed changes
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -397,7 +443,11 @@
     <entry file="file://$PROJECT_DIR$/te.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
+<<<<<<< Updated upstream
           <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
+=======
+          <caret line="1" column="3" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
+>>>>>>> Stashed changes
           <folding />
         </state>
       </provider>
